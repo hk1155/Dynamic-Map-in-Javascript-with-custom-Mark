@@ -1,0 +1,95 @@
+08/10/2020
+
+Hi Trevor,
+I'm really sorry as I haven't sent you a work progress report and please apologize for the same. I've worked on the following things:
+
+- I've worked on adding functionality for latitude & longitude on the map
+- but i have facing some issuses
+- I've added position(mark) with added coordinates from the form
+- I've removed the default mark
+- I've added the validation for the user input.
+Also, I've made a video about my work progress, and the following is the google drive link for the video.
+Link:
+Kindly please take a look into the updates and please give me feedback upon my work.
+Thank you.
+
+================
+
+
+
+=========================================================================================================
+09/10/2020
+Hi Trevor,
+I'm really sorry as I haven't sent you a work progress report and please apologize for the same. I've Worked on the following things:	
+
+- update the mysql database url due to MYSQL5 new security updates releases
+-i've worked on adding functionality for latitude and longitude on the map
+-I've added position(mark) with added coordinates from the form
+-I've added the validation for the user input.
+Also, I've made a Video about my work progress,and the following video link is
+Link :https://www.loom.com/share/588185ae04dd45698d49b2a66c5960a2
+
+Kindly Please take a look into the updates and please give me feedback upon my work.
+Thank You.
+=========================================================================================================
+
+10/10/2020
+
+Hi Trevor, 
+Today i've worked on the following things:
+
+	-i've added the map file in your existing project
+	-set the routes for that file(Map.vue)
+	-fix the bug in validation in user input.
+
+Kindly please take a look into the updates and please give me feedback on the same
+Thank You.
+
+=====================================================
+13-10-2020
+
+how to set routing in vue js
+routing with components on click event
+Make custom Directives
+how to set form validation in vue js
+============================================================
+14/10/2020
+
+retrieve data from api in vuejs
+add the bootstrap navbar and other components in vue application
+add more functionality in php using ajax
+insert json data into mysql database 
+
+===================================================================
+15/10/2020
+
+-bux fix in existing php code in product Module
+-send sms using php and ajax
+-dynamically course wise fees details
+
+========================================================
+16/10/2020
+
+-set validation in dynamic controls in php
+
+- adding a new feature to multiple courses with a single student
+- also count total fees by number of different courses on single   student
+- courses are active and deactive
+
+==========================================================
+17/10/2020
+
+- add payment module
+-it shows the pending and received amount of student
+-pay the pending fees module
+
+==========================================
+19/10/2020
+
+- add the radio button to display Map
+- update the map according to onkeypress event 
+==================================================
+20/10/20
+
+- Post form data to json Api in Vuejs
+- setup the Scadalts Project in backend
