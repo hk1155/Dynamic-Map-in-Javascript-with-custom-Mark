@@ -93,3 +93,23 @@ insert json data into mysql database
 
 - Post form data to json Api in Vuejs
 - setup java and linux in Scadalts Project
+=====================================================
+
+21/10/2020
+
+- setup backend in scadalts project 
+
+-learn vue js life cycle and filters
+
+-learn some vue-bootstrap components
+
+=================================================
+
+22/10/2020
+
+-learn how to use bootstrap components in vue js
+-create custom 404 error page in vuejs
+-add tabs in vuejs demo app
+-try to fix post api data using axios in vuejs
+-learn computed properties in vue js
+
