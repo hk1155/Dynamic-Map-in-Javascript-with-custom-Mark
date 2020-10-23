@@ -112,4 +112,12 @@ insert json data into mysql database
 -add tabs in vuejs demo app
 -try to fix post api data using axios in vuejs
 -learn computed properties in vue js
+===================================================
+
+23/10/2020
+
+- set google map mark is draggable
+- also according to drag find LatLng coordinates
+-
+
 
