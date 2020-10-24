@@ -118,6 +118,9 @@ insert json data into mysql database
 
 - set google map mark is draggable
 - also according to drag find LatLng coordinates
--
 
+24/10/2020
+
+-login using vue js and php
+-registration using login and php
 
