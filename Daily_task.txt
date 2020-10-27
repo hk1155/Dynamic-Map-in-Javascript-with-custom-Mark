@@ -118,9 +118,25 @@ insert json data into mysql database
 
 - set google map mark is draggable
 - also according to drag find LatLng coordinates
-
+=======================================================
 24/10/2020
 
 -login using vue js and php
 -registration using login and php
+======================================================
+26/10/2020
+
+-set validation in vue js form with core php
+-installation of laravel
+-learn routes in laravel
+-crud operation in laravel
+
+============================================
+27/10/2020
+
+-fix route problem in laravel
+-login-logout with session in laravel
+-registration in laravel
+-display error message 
+
 
