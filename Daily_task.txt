@@ -138,5 +138,12 @@ insert json data into mysql database
 -login-logout with session in laravel
 -registration in laravel
 -display error message 
+============================================
+28/10/2020
+
+-fix the problems in login and registration
+-learn middleware in laravel
+-use jquery validators 
+-add product & View Product
 
 
