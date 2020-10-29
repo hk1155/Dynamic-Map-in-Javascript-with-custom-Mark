@@ -146,4 +146,15 @@ insert json data into mysql database
 -use jquery validators 
 -add product & View Product
 
+===================================================
+
+29/10/2020
+
+-status active deactive on toggle button
+-delete record using ajax
+-active deactive using ajax
+-add category 
+
+ 
+
 
