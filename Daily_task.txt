@@ -155,6 +155,23 @@ insert json data into mysql database
 -active deactive using ajax
 -add category 
 
- 
+======================================
+
+30/10/2020
+
+- fix bug in active deactive usign ajax
+- set inner join query and Display record according that
+- add category in product table foreign key
+- add company in category table foreign key
+- add product according to their company & Category
+-learn php migrate refresh & rollback command 
+=====================================================
+
+31/10/2020
+
+-learn pass data using optional parameter
+-display data in datatable using dropdown list
+-fix bug in login with session
+
 
 
