@@ -173,5 +173,17 @@ insert json data into mysql database
 -display data in datatable using dropdown list
 -fix bug in login with session
 
+===============================================
+
+02/11/2020
+
+-modifying the add product module
+-add records using ajax in laravel
+-edit the category Details
+-trying to solve problem in update category
+
+-setup the project of laravel and vue js
+-trying to set routes in laravel with vue js
+
 
 
