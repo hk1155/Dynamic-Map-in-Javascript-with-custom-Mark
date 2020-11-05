@@ -103,3 +103,6 @@ I have add code so there will be no double task.
 -> In that module there was two options one was Static map and Second was Dynamic Map 
 		These options are Displayed in Radio Button when user Click Static Map Then 
 		they see the Static map image otherwise Live Map was Displayed.
+
+
+=======================================================
