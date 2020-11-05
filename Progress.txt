@@ -1,0 +1,105 @@
+
+
+==== Learning  ==========================
+-> learn Form validation on vue js and Retrieve data from api in VUE JS
+
+-> Integrate the BOOTSTRAP in vue js.
+
+-> Learn Simple CRUD operation with core php and VUE js
+
+-> Learn VUE-BOOTSTRAP  Components
+
+-> Learn Vue js Lifecycle
+
+-> Learn Login & Registration using Vue JS and Core PHP
+
+
+====== CORE PHP and AJAX ======================================================
+
+->add new dynamically fields using ajax and jquery
+
+-> Inserted to JSON data in MYSQL Database.
+
+-> Make a Demo Project in corephp using ajax and jquery which was cover the almost functionality in php.
+
+-> In that demo project i have to add the Student fees and Course Module 
+
+-> Student was admitted with Multiple courses
+
+-> according to courses total fees was Displayed and also student was pay the partially fees so pending fees and payable fees are Displayed.
+
+-> In that Course Module Admin was Active & Deactive the Courses also edit And Delete the Course using ajax
+
+
+====== Laravel =============================================================================
+
+-> Start the Learning of Laravel 7
+
+-> Login registration and Logout using session in Laravel
+
+-> Learn Middleware in Laravel
+
+->Learn JQUERY validators and used in Laravel Project
+
+
+-> Make the Demo Laravel Project 
+
+-> In this Project Functionality was 
+
+	1) Login & Logout with session
+	2) Registration
+	3)Manage Product (add,view,edit,delete,active & Deactive)
+	4)Manage Company (add,view,edit,delete,active & Deactive)
+	5)Manage Category (add,view,edit,delete,active & Deactive)
+	
+-> All crud operation in laravel using ajax	
+
+-> Display data in datatable using dropdown value using ajax
+
+-> Learn setup the project using vue js and Laravel
+
+
+
+=============== Working on the Live Projects =====================================================
+
+1) Project name:- One Realty (nic)
+	Vue js & Laravel
+	
+	I have Work On the Following Things
+
+->Bug 47 - add button on the image dropbox 
+->Bug44 - Now it will allow only +,-,space and 0 to 9 values in phone filed otherwise it will show invalid phone filed validation	
+->Bug30- set validation on user profile page while occuring an error
+->Bug22 - show the Local timezone instead of UTC timezone
+->Bug21 - No Saved Properties Found, I have removed 2nd text message and update the image.
+->Bug24- privacy policy and terms condition pages linked in agency sign up page
+		 I have create new pages for privacy policy and terms condition pages
+		 
+		 
+2) Project Name:-   (Seba)
+	Laravel & Vue js
+	
+->		 
+
+
+
+3)  Project Name :- Mark fuqa
+
+I have added estimated_duration in WC/PB task add as well as user/show task add.
+Now in user will able to press enter and that will submit the form.
+I have add complete button to all tasks in task list.
+I have also hide TaskTemplate Notes and Process Notes  if task is not created from task templete.
+I have add code so there will be no double task.
+
+
+4) ScadaLTS :- Vue js (Trevor B) Front end 
+
+-> -> integrate google map on vue js exisiting project and according to user input map is displayed and set the custom mark
+
+-> Set Validation on user input and also cordinates are set on the keypress event 
+
+-> set the Google Mark is Draggable
+
+-> In that module there was two options one was Static map and Second was Dynamic Map 
+		These options are Displayed in Radio Button when user Click Static Map Then 
+		they see the Static map image otherwise Live Map was Displayed.
