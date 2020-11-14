@@ -185,5 +185,156 @@ insert json data into mysql database
 -setup the project of laravel and vue js
 -trying to set routes in laravel with vue js
 
+======================================================
+3/11/2020
+
+Hi Nic
+
+I have fix following bugs today.
+
+Bug 47 - add button on the image dropbox 
+44 - Now it will allow only +,-,space and 0 to 9 values in phone filed otherwise it will show invalid phone filed validation	
+30- set validation on user profile page while occuring an error
+22 - show the Local timezone instead of UTC timezone
+21 - No Saved Properties Found, I have removed 2nd text message and update the image.
+
+24- privacy policy and terms condition pages linked in agency sign up page
+I have create new pages for privacy policy and terms condition pages, Please provide me content of both pages.
+https://dev.onerealty.com.au/privacy-policy
+https://dev.onerealty.com.au/terms-condition
+
+I have pushed changes to dev server.
+
+Thank you
+
+=================================================
+4-11-2020
+
+
+- analyze the projects and understand the Structure of projects of Seba
+- fix the bug in show multiple business time in coach panel
+- There is no update for Seba as i am working on issue and code is not uploaded to server yet
+
+	https://prnt.sc/vda3hs
+	
+=====================================================
+5-11-2020	
+
+Hi Mark
+
+I have worked on following things today.
+
+I have add estimated_duration in WC/PB task add as well as user/show task add.
+Now in user will able to press enter and that will submit the form.
+I have add complete button to all tasks in task list.
+I have also hide TaskTemplate Notes and Process Notes  if task is not created from task templete.
+I have add code so there will be no double task.
+
+Thank you.
+
+=========================================================================================
+6/11/2020
+
+
+->  Remove the add hour button on custom business hour module.	(Seba)
+-> manage the history add & Update on same user Only.
+
+====================================================================
+7/11/20220
+
+Hi Nic
+
+bug48 :- Tooltip is displayed on mouse hover the property feature
+bug25 :- Show the verification button in email format
+bug29 :- currently am working on the show the invoice receipt in Mail.
+
+currently i am working on bug 29 socode is not uploaded to server
+
+Thank You
+
+
+https://prnt.sc/vf1jqx
+
+=========================================================
+9-11-2020
+Hi nic 
+	Today i have worked on following things.
+	
+bug29:- Invoice subscribe payment receipt is show in mail.
+bug28 :- Show the Invoice receipt in Agency Setting Page here i show the both invoice first one is Subscription Invoice & other was Property listing type 	  Invoice. 
+
+I have pushed changes to dev server.
+
+Thank You.
+=================================================================
+10-11-2020
+
+Hi Nic 
+I have fix following bugs in coda.io
+28,29,33,34
+And assign it to jyotsana.
+I have pushed changes to dev server.
+Please check and send back your feedback.
+
+Thank you
+
+Hi Mark
+https://prnt.sc/vgqwpm
+
+add the vue editor in process builder.
+change label description to additional details in process builder.
+I have make changes in task notes and now whole text will be visible, I have also make changes in edit form as it was showing input filed, So i make it text area so user will able to add/edit task note easily.
+I have also add validation to task add.
+Please check this and let me know i have to implement same in process and task template notes.
+
+Thank you
+
+=======================================================================
+
+11-11-2020
+
+Hi seba
+	 Today i have worked on following things
+	 
+-> i have Fix the Bug in Custom Business Hour selection.
+
+Thank You
+
+Hi Mark
+
+There is something wrong with redis[broadcasting] thing on server, When i broadcast anything like message or notification it trigger to all 3 domain.
+I am just figuring out why all broadcasting sync even after having different port.
+That is the reason you are getting two notification.
+I will figure out the problem and solve the issue asap.
+
+Thank you
+
+=========================================================
+12-11-2020
+
+hi mark
+I have generate ticket to support and fix redis issue.
+I have change configuration of redis of app.winwini.com. I will need to test a bit as i was working on tasks you have assigned me today, Once that is done i will do full test of broadcast thing.
+
+Thank You
+
+=======================================================
+
+13-11-2020
+
+Hi Mark
+
+Today i have done following things
+
+I have add the make active button in grid view
+when Click on That Button task is assigned to user and that record was removed in the grid view.
+I have change the configuration on all the redis server.
+I haven't test redis yet as grid delete was creating issue and not updating once we remove dynamically once button is clicked and it consume my all time today.
+I have pushed changes on both winwini console and laravel side, I have also take pull on server.
+
+I am leaving for now, if you have something please drop me a message. I will check once I will back on work.
+
+Thank you
+
 
 
